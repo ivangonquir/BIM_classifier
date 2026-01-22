@@ -46,7 +46,10 @@ Once the virtual environment is activated, install the dependencies from
 pip install -r requirements.txt
 ```
 
-### 6. Run the Streamlit App
+### 6. Run the cells of ```notebook.ipynb```
+Run the cells of the Jupyter Notebook to create and save the data that will be later visualized with Streamlit.
+
+### 7. Run the Streamlit App
 ```bash
 streamlit run app.py
 ```
