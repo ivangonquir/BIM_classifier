@@ -50,4 +50,8 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+Click on the top left >> sign and navigate through the 3 pages: 
+1. *Performance Metrics*: Visualize Confusion Matrix, Scatter Plots and the most important learnt features.
+2. *Mesh Explorer*: Visualize the different elements in a 3D plot.
+3. *Warehouse Battle Test*: Section not finished due to computing limitations. 
 
