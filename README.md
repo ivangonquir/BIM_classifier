@@ -24,8 +24,8 @@ Beyond simple geometry, the pipeline implements spatial heuristics to solve "Rea
 ## Installation Instructions
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ivan-quirante/Maestro_repo.git
-cd Maestro_repo
+git clone https://github.com/ivan-quirante/BIM_classifier.git
+cd BIM_classifier
 ```
 ### 2. Add data folder
 Add the data folder with Part A and Part B to the repository.
