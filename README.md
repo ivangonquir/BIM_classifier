@@ -1,6 +1,8 @@
 # Maestro_repo
 
-This repository contains a Streamlit app that utilizes a machine learning model and various utility functions for geometry processing, model handling, and data visualization. It is designed to provide an interactive experience for users to explore and visualize different aspects of the models and data.
+This project addresses the challenge of identifying structural elements within complex BIM (Building Information Modeling) assemblies. Using a modular Python architecture, the system extracts scale-invariant geometric features from 3D meshes to classify elements into four primary categories: Beams, Columns, Walls, and Slabs.
+
+Beyond simple geometry, the pipeline implements spatial heuristics to solve "Real World" contextual ambiguity—distinguishing between primary structural supports and local components (like roof trusses) that share identical geometric profiles.
 
 ## Contents
 - ```core/```: Contains utility functions for geometry processing, model manipulation, and visualization.
