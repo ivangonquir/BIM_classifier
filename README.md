@@ -1,4 +1,4 @@
-# Maestro_repo
+# BIM_classifier
 
 This project addresses the challenge of identifying structural elements within complex BIM (Building Information Modeling) assemblies. Using a modular Python architecture, the system extracts scale-invariant geometric features from 3D meshes to classify elements into four primary categories: Beams, Columns, Walls, and Slabs.
 
