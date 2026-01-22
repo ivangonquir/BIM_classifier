@@ -28,7 +28,7 @@ git clone https://github.com/ivan-quirante/Maestro_repo.git
 cd Maestro_repo
 ```
 ### 2. Add data folder
-Add the data folder with Part A and Part B data to the repository.
+Add the data folder with Part A and Part B to the repository.
 
 ### 4. Set up the virtual environment
 ```bash
@@ -51,5 +51,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### 4. Run the Streamlit App
-```
